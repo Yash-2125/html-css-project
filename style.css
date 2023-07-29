@@ -295,3 +295,25 @@ table td {
 
     }
 }
+#contact{
+    text-align: center;
+    padding: 40px;
+    color:  rgb(255, 255, 255);
+  
+  }
+  
+  #contact a{
+    text-decoration: none;
+    
+  }
+  #contact a i{
+    margin: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+  }
+  #contact a i:hover {
+    color: rgb(30, 215, 96);
+  }
+  #contact p{
+    color:  rgb(170, 170, 170);
+  }
